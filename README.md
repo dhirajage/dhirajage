@@ -62,7 +62,7 @@ I enjoy working with cloud platforms, automation tools, CI/CD pipelines, and inf
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhirajage&show_icons=true)
 
 ---
 
