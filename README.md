@@ -68,7 +68,7 @@ I enjoy working with cloud platforms, automation tools, CI/CD pipelines, and inf
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: Add your profile link  
+💼 LinkedIn: www.linkedin.com/in/dhiraj-age-2910591a0  
 🐙 GitHub: https://github.com/dhirajage  
 
 ---
